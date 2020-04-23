@@ -1,0 +1,13 @@
+Nombre: Ignacio Valdés Chávez
+Ramo: Computación paralela
+Profesor: Sebastián Salazar Molina
+
+
+¿En qué consiste la exclusión mutua?
+Es un proceso por el cual se impide el uso de un mismo recurso para
+dos programas o algoritmos distintos. Esto se realiza con el fin de 
+evitar errores.
+
+¿Qué es un sockets?
+Es una interfaz que permite la comunicación entre un servidor y un cliente
+para lo cual se utiliza una dirección ip y un puerto.
